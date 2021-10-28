@@ -1,0 +1,18 @@
+{
+  "name": "@nhz/eslint-config-vue",
+  "version": "0.0.1",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --config=index.js"
+  },
+  "dependencies": {
+    "@nhz/eslint-config-basic": "*",
+    "eslint-plugin-vue": "^7.14.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.1"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "@nhz/eslint-config-basic",
+  "version": "0.0.1",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --config=index.js"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "eslint": "^8.0.1"
+  }
+}
