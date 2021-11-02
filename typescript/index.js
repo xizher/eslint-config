@@ -11,5 +11,6 @@ module.exports = {
     "@typescript-eslint/indent": ["error", 2],
     '@typescript-eslint/ban-types': 0,
     '@typescript-eslint/no-unused-vars': 0,
+    '@typescript-eslint/no-empty-interface': 'off',
   }
 }
