@@ -12,5 +12,6 @@ module.exports = {
     '@typescript-eslint/ban-types': 0,
     '@typescript-eslint/no-unused-vars': 0,
     '@typescript-eslint/no-empty-interface': 'off',
+    '@typescript-eslint/ban-ts-comment': 'off',
   }
 }
