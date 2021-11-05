@@ -13,4 +13,7 @@ module.exports = {
     'defineEmits': true,
     'defineExpose': true,
   },
+  'rules': {
+    'indent': 'off',
+  }
 }
